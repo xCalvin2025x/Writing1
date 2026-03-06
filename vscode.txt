@@ -1,0 +1,29 @@
+{
+    "window.zoomLevel": 2,
+    "editor.fontSize": 18,
+    "window.newWindowProfile": "默认",
+    "workbench.startupEditor": "none",
+    "editor.minimap.renderCharacters": false,
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "'Comic Mono','霞鹜文楷 屏幕阅读版'",
+    "workbench.colorTheme": "Experimental Dark",
+    "workbench.iconTheme": "material-icon-theme",
+
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+
+    "background.editor": {
+        "useFront": true,
+        "style": {
+            "background-position": "center",
+            "background-size": "cover",
+            "opacity": 0.3
+        },
+        "images": [
+            "file:///D:/other/zm/Wallpaper%20-%20February%202026.png"
+        ],
+        "interval": 0,
+        "random": false
+    },
+}
