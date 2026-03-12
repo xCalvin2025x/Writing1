@@ -5,6 +5,8 @@
     "workbench.startupEditor": "none",
     "editor.minimap.renderCharacters": false,
     "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "solid",
+    "editor.renderWhitespace": "all",
     "editor.fontFamily": "'Comic Mono','霞鹜文楷 屏幕阅读版'",
     "workbench.colorTheme": "Experimental Dark",
     "workbench.iconTheme": "material-icon-theme",
