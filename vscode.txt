@@ -18,7 +18,9 @@
     "workbench.layoutControl.enabled": false,
     "workbench.navigationControl.enabled": false,
     "window.commandCenter": false,
-
+    
+    "vscode-hanzi-counter.template.tooltipTemplateName": "zh-hans",
+    
     "background.editor": {
         "useFront": true,
         "style": {
