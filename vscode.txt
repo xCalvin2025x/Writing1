@@ -19,5 +19,5 @@
     "window.commandCenter": false,
     
     "vscode-hanzi-counter.template.tooltipTemplateName": "zh-hans",
-    "workbench.colorTheme": "One Dark Pro Flat",
+    "workbench.colorTheme": "Dracula Theme Soft",
 }
